@@ -4,6 +4,8 @@ A **live, auto-updating** knockout bracket and group stage tracker for the FIFA 
 
 👉 **[Live Demo → https://imp.cx/bracket.html](https://imp.cx/bracket.html)**
 
+![World Cup 2026 Bracket](screenshot.png)
+
 ---
 
 ## Features
